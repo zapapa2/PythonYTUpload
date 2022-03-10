@@ -1,4 +1,4 @@
-This software is under MIT license. We do not own any server for data storage. This software won't store any personal data but YouTube oauth credentials,
+This software is under MIT license. We do not own any server for data storage. This software won't store any personal data but YouTube oauth credentials
 once logged in, which will be used exclusively for uploading videos. We are nor responsible for any consequence related to a bad usage of this software,
 such as channel strikes or Youtube Terms and Privacy Policy violations.
 
