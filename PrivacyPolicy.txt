@@ -2,5 +2,5 @@ This software is under MIT license. We do not own any server for data storage. T
 once logged in, which will be used exclusively for uploading videos. We are nor responsible for any consequence related to a bad usage of this software,
 such as channel strikes or Youtube Terms and Privacy Policy violations.
 
-Daniel Sánchez Checa.
+Daniel Sánchez Checa. NIF 05939831N
 C/Aguilera, 31, 13500, Puertollano, Ciudad Real, Spain.
